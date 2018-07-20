@@ -1,3 +1,4 @@
+// GeeksforGeeks Sudo Placement Q 3
 // Rotate an array by d elements
 /* E.g Input:
         n=5, d=2 a[]={1, 2, 3, 4, 5}
