@@ -38,9 +38,7 @@ int main()
         }
        ll mx=LLONG_MIN;
        for(ll i=0;i<m;i++)
-       {
            mx=max(arr[i],mx);
-       } 
         cout<<mx<<endl;
     }
     return 0;
